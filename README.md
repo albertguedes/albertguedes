@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Developer // Machine Learning Engeneer</h3>
 
-<p align="center" >Software developer with 15 years of experience, <br> working in the design, creation, management, release and maintenance of custom and legacy software.</p>
+<p align="center" >Software developer with 15 years of experience, <br> working in the design, creation, management, release<br> and maintenance of custom and legacy software.</p>
 
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertguedes&show_icons=true&locale=en&layout=compact" alt="albertguedes" />
