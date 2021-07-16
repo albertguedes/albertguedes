@@ -1,4 +1,4 @@
-<div style="text-align:center" >
+<div align="center" >
 <h1 align="center">Hi 👋, I'm Albert Guedes</h1>
 <h3 align="center">Software Developer // Machine Learning Engeneer</h3>
 
