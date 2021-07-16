@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Albert Guedes</h1>
+<h1 align="center">Albert Guedes</h1>
 
 <h3 align="center">Software Developer // Machine Learning Engeneer</h3>
 
