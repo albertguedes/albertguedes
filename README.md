@@ -1,4 +1,4 @@
-<h1 align="center">Albert Guedes</h1>
+<h1 align="center">Albert Guedes <img src="https://komarev.com/ghpvc/?username=albertguedes&label=Profile%20views&color=0e75b6&style=flat" alt="albertguedes" /></h1>
 
 <h3 align="center">Software Developer // Machine Learning Engeneer</h3>
 
@@ -11,8 +11,6 @@
 <p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertguedes&" alt="albertguedes" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertguedes&label=Profile%20views&color=0e75b6&style=flat" alt="albertguedes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertguedes" alt="albertguedes" /></a> </p>
 
