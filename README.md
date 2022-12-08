@@ -169,7 +169,7 @@
 
 <h3 align="center">Contact</h3>
 
-<p align="center"> 📫 Email **albert@teko.net.br** <br> 💬 Telegram **https://t.me/albertguedes** </p>
+<p align="center"> 📫 Email [albert@teko.net.br](emailto:albert@teko.net.br) <br> 💬 Telegram [https://t.me/albertguedes](https://t.me/albertguedes)</p>
 
 <h3 align="center">Connect</h3>
 
