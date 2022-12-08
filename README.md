@@ -11,9 +11,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertguedes&column=8&margin-w=10&margin-h=10&theme=gruvbox" alt="albertguedes" /></a> </p>
 
-<h3 align="left">Languages</h3>
+<h3 align="center">Languages</h3>
 
-<p align="left" >
+<p align="center" >
     <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
@@ -52,9 +52,9 @@
   </a> 
 </p>
 
-<h3>Frameworks and Libraries</h3>
+<h3 align="center">Frameworks and Libraries</h3>
 
-<p align="left" >
+<p align="center" >
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>  
@@ -96,9 +96,9 @@
   </a>  
 </p>
 
-<h3>Operating Systems</h3>
+<h3 align="center">Operating Systems</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
@@ -113,9 +113,9 @@
   </a>  
 </p>
 
-<h3>Databases</h3>
+<h3 align="center" >Databases</h3>
   
-<p align="left" >
+<p align="center" >
   <a href="https://mariadb.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
@@ -139,9 +139,9 @@
   </a>  
 </p>
 
-<h3>Platforms and Tools</h3>
+<h3 align="center" >Platforms and Tools</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   </a>
@@ -163,17 +163,16 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+</p>
 
-  </p>
 
+<h3 align="center">Contact</h3>
 
-<h3 align="left">Contact</h3>
+<p align="center"> 📫 Email **albert@teko.net.br** || 💬 Telegram **https://t.me/albertguedes** </p>
 
-📫 Email **albert@teko.net.br** 💬 Telegram **https://t.me/albertguedes**
+<h3 align="center">Connect</h3>
 
-<h3 align="left">Connect</h3>
-
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/albertguedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albertguedes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/albertguedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertguedes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/albertguedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="albertguedes" height="30" width="40" /></a>
