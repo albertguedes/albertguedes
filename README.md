@@ -165,10 +165,11 @@
   </a> 
 </p>
 
+<hr>
 
 <h3 align="center">Contact</h3>
 
-<p align="center"> 📫 Email **albert@teko.net.br** || 💬 Telegram **https://t.me/albertguedes** </p>
+<p align="center"> 📫 Email **albert@teko.net.br** <br> 💬 Telegram **https://t.me/albertguedes** </p>
 
 <h3 align="center">Connect</h3>
 
@@ -180,5 +181,11 @@
 <a href="https://instagram.com/albertguedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertguedes" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">God bless you and have a nice day.</h4>
+<hr>
+
+<h4 align="center">
+  God bless you and have a nice day.
+  <br>
+  <img src="https://img.icons8.com/fluency/512/peace-pigeon.png" width="24" height="24" alt="holly spirit"/>
+</h4>
 
