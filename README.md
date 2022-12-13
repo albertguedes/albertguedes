@@ -187,6 +187,6 @@
 <h4 align="center">
   God bless you and have a nice day.
   <br>
-  <img src="https://img.icons8.com/fluency/512/peace-pigeon.png" width="24" height="24" alt="holly spirit"/>
+  <img src="https://www.svgrepo.com/show/264603/dove-bird.svg" width="24" height="24" alt="holly spirit"/>
 </h4>
 
