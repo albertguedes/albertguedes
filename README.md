@@ -1,7 +1,5 @@
 <h1 align="center">Albert R. Carnier Guedes <img src="https://komarev.com/ghpvc/?username=albertguedes&label=Profile%20views&color=0e75b6&style=flat" alt="albertguedes" /></h1>
 
-<h3 align="center">PHP Developer // Machine Learning Engeneer</h3>
-
 <p align="center" >Software developer since 2006, <br> working in the design, creation, management, release<br> and maintenance of custom and legacy software, with focus on PHP programming.</p>
 
 <p align="center" >
