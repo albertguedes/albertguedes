@@ -1,10 +1,9 @@
 <h1 align="center">Albert R. Carnier Guedes <img src="https://komarev.com/ghpvc/?username=albertguedes&label=Profile%20views&color=0e75b6&style=flat" alt="albertguedes" /></h1>
 
-<p align="center" >Software developer since 2006, <br> working in the design, creation, management, release<br> and maintenance of custom and legacy software, with focus on PHP programming.</p>
+<p align="center" >Software developer since 2006, <br> working in the design, creation, management, release<br> and maintenance of custom and legacy software, with focus on PHP and PYTHON programming.</p>
 
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=albertguedes&show_icons=true&theme=gruvbox" alt="albertguedes" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertguedes&theme=gruvbox" alt="albertguedes" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertguedes&column=8&margin-w=10&margin-h=10&theme=gruvbox" alt="albertguedes" /></a> </p>
@@ -183,7 +182,7 @@
 <hr>
 
 <h4 align="center">
-  God bless you and have a nice day.
+  God bless you, and have a nice day.
   <br>
   <img src="https://www.svgrepo.com/show/264603/dove-bird.svg" width="24" height="24" alt="holly spirit"/>
 </h4>
